@@ -44,3 +44,7 @@ Alice 是支付宝前端样式解决方案小组的项目代称。她包括构�
 基于 [MIT License](http://en.wikipedia.org/wiki/MIT_License "WikiPedia 中关于 MIT License 的描述") 开源。版权属于 `支付宝前端样式库团队` 所有，作者 [Sofish Lin](http://sofish.de) 具有作品署名权。版权说明文件可以在这个链接中查看：
 
 [http://aliceui.com/license.txt]()
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/htom78/alice/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
